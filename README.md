@@ -3,6 +3,7 @@
 ## Dk0m
 
 *17 y/o programmer passionate about all types of technology*
+
 Discord: [@modbroker](https://discord.com/users/194281239912382464)
 
 <div align="center">  

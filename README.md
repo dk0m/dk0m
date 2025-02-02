@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/174647546?v=4"  />
-</div>
+<h1 align="center">Hey There 👋!</h1>
 
 ###
 
@@ -12,16 +10,6 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dk0m.dk0m&"  />
-</div>
-
-###
-
-<h1 align="center">Hey There 👋!</h1>
 
 ###
 
@@ -75,6 +63,6 @@
 
 ###
 
-<p align="left">Bitcoin: ``bc1qcerefnnkj3wst3mxl4w9kdnfqdjth7x756rchd``<br>Monero: ``4Ai9L9hodx46XdahNawUpnAp1cSjDqpxK6TaMrXJJTxiFkD2SnNiukySPLTUs9Qp2aTRyxMma828ebLFpTQFwxLyJBpGU4h``<br>Litecoin: ``LQSpYhMS92TdADr1gz8AC4G37gom8r2gKB``</p>
+<p align="left">Bitcoin: ```bc1qcerefnnkj3wst3mxl4w9kdnfqdjth7x756rchd```<br>Monero: ```4Ai9L9hodx46XdahNawUpnAp1cSjDqpxK6TaMrXJJTxiFkD2SnNiukySPLTUs9Qp2aTRyxMma828ebLFpTQFwxLyJBpGU4h```<br>Litecoin: ```LQSpYhMS92TdADr1gz8AC4G37gom8r2gKB```</p>
 
 ###

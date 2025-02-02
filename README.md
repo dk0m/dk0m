@@ -6,6 +6,7 @@
   <a href="https://discord.com/users/194281239912382464" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
+  
   <a href="https://t.me/r0z3na" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
@@ -63,6 +64,11 @@
 
 ###
 
-<p align="left">Bitcoin: ```bc1qcerefnnkj3wst3mxl4w9kdnfqdjth7x756rchd```<br>Monero: ```4Ai9L9hodx46XdahNawUpnAp1cSjDqpxK6TaMrXJJTxiFkD2SnNiukySPLTUs9Qp2aTRyxMma828ebLFpTQFwxLyJBpGU4h```<br>Litecoin: ```LQSpYhMS92TdADr1gz8AC4G37gom8r2gKB```</p>
+Bitcoin: ``bc1qcerefnnkj3wst3mxl4w9kdnfqdjth7x756rchd``
+
+Monero: ``4Ai9L9hodx46XdahNawUpnAp1cSjDqpxK6TaMrXJJTxiFkD2SnNiukySPLTUs9Qp2aTRyxMma828ebLFpTQFwxLyJBpGU4h``
+
+Litecoin: ``LQSpYhMS92TdADr1gz8AC4G37gom8r2gKB``
+
 
 ###

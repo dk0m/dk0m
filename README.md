@@ -63,11 +63,11 @@
 
 ###
 
-Bitcoin: ``bc1qcerefnnkj3wst3mxl4w9kdnfqdjth7x756rchd``
+Bitcoin: ```bc1qcerefnnkj3wst3mxl4w9kdnfqdjth7x756rchd```
 
-Monero: ``4Ai9L9hodx46XdahNawUpnAp1cSjDqpxK6TaMrXJJTxiFkD2SnNiukySPLTUs9Qp2aTRyxMma828ebLFpTQFwxLyJBpGU4h``
+Monero: ```4Ai9L9hodx46XdahNawUpnAp1cSjDqpxK6TaMrXJJTxiFkD2SnNiukySPLTUs9Qp2aTRyxMma828ebLFpTQFwxLyJBpGU4h```
 
-Litecoin: ``LQSpYhMS92TdADr1gz8AC4G37gom8r2gKB``
+Litecoin: ```LQSpYhMS92TdADr1gz8AC4G37gom8r2gKB```
 
 
 ###

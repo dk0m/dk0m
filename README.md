@@ -68,7 +68,7 @@
 bc1qcerefnnkj3wst3mxl4w9kdnfqdjth7x756rchd
 ```
 
-🚀 Monero 🚀
+🌑 Monero 🌑
 ```
 4Ai9L9hodx46XdahNawUpnAp1cSjDqpxK6TaMrXJJTxiFkD2SnNiukySPLTUs9Qp2aTRyxMma828ebLFpTQFwxLyJBpGU4h
 ```

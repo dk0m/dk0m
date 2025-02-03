@@ -1,4 +1,4 @@
-<h1 align="center">Hey There 👋!</h1>
+<h1 align="center">Hey There 👋! I'm dk0m</h1>
 
 ###
 
@@ -13,7 +13,7 @@
 
 ###
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h3 align="left">👩‍💻 About Me 👩‍💻</h3>
 
 ###
 
@@ -21,7 +21,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools 🛠</h3>
 
 ###
 
@@ -49,7 +49,7 @@
 
 ###
 
-<h3 align="left"> 🚀 My Stats</h3>
+<h3 align="left"> 🚀 My Stats 🚀</h3>
 
 ###
 
@@ -60,7 +60,7 @@
 
 ###
 
-<h3 align="left">💳 Crypto</h3>
+<h3 align="left">💳 Crypto 💳</h3>
 
 ###
 

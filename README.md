@@ -55,7 +55,7 @@
   <a href="https://discord.com/users/194281239912382464" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="https://t.me/r0z3na" target="_blank">
+  <a href="https://t.me/majorhook" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
   <a href="https://x.com/@r0z3na" target="_blank">

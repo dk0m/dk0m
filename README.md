@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I'm dk0m, A 17 year old programmer and developer, Most of my repositories are related to security & windows malware development.<br><br>- 📚 I'm currently learning Assembly.<br>- ⚡ In my free time I mess around with random tech.</p>
+<p align="left">I'm dk0m, A 17 year old programmer and developer, Most of my repositories are related to security & windows malware development.<br><br>- 📚 I'm currently learning Assembly & C2 Development.<br>- ⚡ In my free time I mess around with random tech.</p>
 
 ###
 
